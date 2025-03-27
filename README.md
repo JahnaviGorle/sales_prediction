@@ -29,5 +29,5 @@ The dataset consists of sales records from multiple stores with features such as
 ## **How to Run the Project**  
  Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/big-mart-sales-prediction.git
-   cd big-mart-sales-prediction
+   git clone https://github.com/JahnaviGorle/sales_prediction.git
+   cd sales_prediction
